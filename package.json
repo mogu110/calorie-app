@@ -1,16 +1,9 @@
 {
-  "name": "calorie-tracker",
-  "version": "0.1.0",
+  "name": "calorie-app",
+  "version": "1.0.0",
   "private": true,
   "homepage": ".",
   "dependencies": {
-    "@radix-ui/react-avatar": "^1.0.4",
-    "@radix-ui/react-card": "^1.0.4",
-    "@radix-ui/react-input": "^1.0.4",
-    "@radix-ui/react-scroll-area": "^1.0.4",
-    "@radix-ui/react-separator": "^1.0.4",
-    "@radix-ui/react-tabs": "^1.0.4",
-    "@radix-ui/react-button": "^1.0.4",
     "lucide-react": "^0.294.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -22,12 +15,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
   },
   "browserslist": {
     "production": [
